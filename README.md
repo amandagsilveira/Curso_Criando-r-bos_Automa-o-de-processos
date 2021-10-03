@@ -1,2 +1,3 @@
-# Curso_Criando-rôbos_Automação-de-processos
-Pesquisa de domínio
+# Pesquisa de domínio
+Projeto para pesquisar se um determinado domínio está disponível.
+
